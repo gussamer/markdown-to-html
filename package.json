@@ -36,8 +36,8 @@
   "homepage": "https://github.com/cwjohan/markdown-to-html",
   "dependencies": {
     "gfm-linkify": "^0.1.0",
-    "marked": "^0.3.2",
-    "open": "0.0.5",
+    "marked": "^4.0.10",
+    "open": "^8.4.0",
     "pygmentize-bundled": "^2.2.0",
     "request": "^2.47.0",
     "tmp": "0.0.24",
@@ -47,12 +47,12 @@
     "test": "test"
   },
   "devDependencies": {
-    "errorhandler": "1.1.x",
-    "express": "4.6.x",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.2",
     "jade": "1.4.x",
-    "method-override": "2.1.x",
-    "morgan": "1.5.x",
-    "serve-favicon": "2.0.x",
-    "stylus": "0.47.x"
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0",
+    "stylus": "^0.56.0"
   }
 }
